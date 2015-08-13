@@ -1,4 +1,4 @@
 #import 'js/utility.js'
-#import 'js/loadCost.js'
+#import 'js/loadNumbersReverse.js'
 
 loadText();
